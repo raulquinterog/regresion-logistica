@@ -4,7 +4,8 @@ README - Regresión Logística y Validación Cruzada
 
 [Código con Texto](https://github.com/raulquinterog/regresion-logistica/blob/ca031c1aaec49b6f837b6cac818aba069ad4272c/Regresio%CC%81n_logi%CC%81stica_y_validacio%CC%81n_cruzada.ipynb)
 
-[Datos Usados]()
+[Datos Usados](https://www.inegi.org.mx/datosabiertos/)
+(Archivo demasiado grande para Github, entre al link, informacion economica, cencos, censos económicos, 2019, NL)
 
 [Diccionario de Datos](https://github.com/raulquinterog/regresion-logistica/blob/ca031c1aaec49b6f837b6cac818aba069ad4272c/diccionario_de_datos_ce2019.csv)
 
